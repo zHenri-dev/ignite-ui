@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/react",
+  "name": "@zhenri-ignite-ui/react",
   "version": "1.0.0",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -13,9 +13,9 @@
   "author": "zHenri",
   "license": "MIT",
   "devDependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@zhenri-ignite-ui/eslint-config": "*",
+    "@zhenri-ignite-ui/tokens": "*",
+    "@zhenri-ignite-ui/ts-config": "*",
     "@types/react": "^18.0.21",
     "@types/react-dom": "^18.0.6",
     "react": "^18.2.0",
