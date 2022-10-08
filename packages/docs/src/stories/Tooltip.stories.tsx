@@ -20,6 +20,13 @@ export default {
     ),
     text: '21 de Outubro - Indisponível',
   },
+  argTypes: {
+    trigger: {
+      control: {
+        type: null,
+      },
+    },
+  },
 } as Meta<TooltipProps>
 
 export const Primary: StoryObj<TooltipProps> = {}
