@@ -1,6 +1,6 @@
 {
   "name": "@zhenri-ignite-ui/react",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
@@ -13,11 +13,11 @@
   "author": "zHenri",
   "license": "MIT",
   "devDependencies": {
+    "@types/react": "^18.0.21",
+    "@types/react-dom": "^18.0.6",
     "@zhenri-ignite-ui/eslint-config": "*",
     "@zhenri-ignite-ui/tokens": "*",
     "@zhenri-ignite-ui/ts-config": "*",
-    "@types/react": "^18.0.21",
-    "@types/react-dom": "^18.0.6",
     "react": "^18.2.0",
     "tsup": "^6.2.3",
     "typescript": "^4.8.4"
@@ -25,6 +25,8 @@
   "dependencies": {
     "@radix-ui/react-avatar": "^1.0.0",
     "@radix-ui/react-checkbox": "^1.0.0",
+    "@radix-ui/react-toast": "^1.0.0",
+    "@radix-ui/react-tooltip": "^1.0.0",
     "@stitches/react": "^1.2.8",
     "phosphor-react": "^1.4.1"
   }
