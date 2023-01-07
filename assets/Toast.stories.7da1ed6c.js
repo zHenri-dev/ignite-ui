@@ -1,0 +1,2 @@
+import{d as t}from"./index.eb6d86d4.js";import"./index.c6c33f64.js";import"./iframe.206743be.js";import"./index.e120f58d.js";import"./jsx-runtime.87b83a92.js";const e={title:"Data display/Toast",component:t,args:{title:"Example Toast",description:"Example toast description",open:!0}},p={},m=["Primary"];export{p as Primary,m as __namedExportsOrder,e as default};
+//# sourceMappingURL=Toast.stories.7da1ed6c.js.map

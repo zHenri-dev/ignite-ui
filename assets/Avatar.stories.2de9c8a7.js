@@ -1,0 +1,2 @@
+import{A as t}from"./index.eb6d86d4.js";import"./index.c6c33f64.js";import"./iframe.206743be.js";import"./index.e120f58d.js";import"./jsx-runtime.87b83a92.js";const i={title:"Data display/Avatar",component:t,args:{src:"https://github.com/zhenri-dev.png",alt:"zHenri Developer"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},m=["Primary","WithFallback"];export{p as Primary,c as WithFallback,m as __namedExportsOrder,i as default};
+//# sourceMappingURL=Avatar.stories.2de9c8a7.js.map
